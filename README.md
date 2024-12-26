@@ -1,4 +1,0 @@
-# mytest
-Nataniel 
-git 
-help
